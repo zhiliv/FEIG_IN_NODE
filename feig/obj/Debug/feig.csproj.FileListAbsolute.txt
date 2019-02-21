@@ -1,0 +1,9 @@
+Q:\Projects\LibForFeig\feig\feig\bin\Debug\feig.dll
+Q:\Projects\LibForFeig\feig\feig\bin\Debug\feig.pdb
+Q:\Projects\LibForFeig\feig\feig\obj\Debug\feig.csprojAssemblyReference.cache
+Q:\Projects\LibForFeig\feig\feig\obj\Debug\feig.csproj.CoreCompileInputs.cache
+Q:\Projects\LibForFeig\feig\feig\obj\Debug\feig.dll
+Q:\Projects\LibForFeig\feig\feig\obj\Debug\feig.pdb
+Q:\Projects\LibForFeig\feig\feig\bin\Debug\OBIDISC4NET.dll
+Q:\Projects\LibForFeig\feig\feig\bin\Debug\OBIDISC4NETnative.dll
+Q:\Projects\LibForFeig\feig\feig\obj\Debug\feig.csproj.CopyComplete
