@@ -40,6 +40,7 @@ exports.Start = async () => {
     /* проверка пинга  */
     if ((ping.Status == 'Success') && (ping.Ping < 10)) {
       await FEDM.GetData(params).then(res => {
+				console.log('TCL: exports.Start -> res', res)
         ProcessingData(res).then(() => {
           result.resolve(true);
         });
